@@ -5,3 +5,7 @@ Price : 104.45 $
 Type : Blue Switch 
 
 More Specs : RBG lights, swappable keys, ghosting and many more
+
+Cable Type : USB-A
+
+Body Type : Metal body
